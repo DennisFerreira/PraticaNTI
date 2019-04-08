@@ -1,0 +1,11 @@
+﻿movie_pk,title,year,winner,id_producer_1,producer_1,id_producer_2,producer_2,id_producer_3,producer_3,id_producer_4,producer_4,id_studio_1,studio_1,id_studio_2,studio_2,id_studio_3,studio_3
+1,Hobo with a Shotgun,2011,Y,1,Rob Cotterill,7,Paul Gross,10,Niv Fichman,14,Frank Siracusa,1,Rhombus Media,7,Whizbang Films,10,Yer Dead Productions
+2,Death Proof,2001,Y,2,Quentin Tarantino,3,Elizabeth Avellán,6,Robert Rodriguez,15,Erica Steinberg,2,Troublemaker Studios,,,,
+3,Planet Terror,2007,Y,3,Elizabeth Avellán,6,Robert Rodriguez,2,Quentin Tarantino,,,3,Rodriguez International Pictures,2,Troublemaker Studios,,
+4,Rampage,2009,N,4,Uwe Boll,8,Dan Clarke,11,Shawn Williamson,,,4,Brightlight Pictures,8,Pitchblack Pictures,,
+5,Piranha 3D,2010,Y,5,Alexandre Aja,9,Mark Canton,12,Marc Toberoff,16,Grégory Levasseur,5,The Weinstein Company,9,Atmosphere Entertainment,11,Chako Film Company
+6,Machete,2010,N,6,Robert Rodriguez,3,Elizabeth Avellán,13,Rick Schwartz,,,6,Overnight Films,2,Troublemaker Studios,12,Hyde Park Entertainment
+7,Grindhouse,2007,Y,3,Elizabeth Avellán,6,Robert Rodriguez,2,Quentin Tarantino,,,2,Troublemaker Studios,3,Rodriguez International Pictures,,
+8,Cottage Country,2012,Y,14,Frank Siracusa,7,Paul Gross,17,Jeremy Boxen,,,7,Whizbang Films,,,,
+9,Maniac,2012,Y,16,Grégory Levasseur,18,Thomas Langmann,19,William Lustig,,,13,Canal+,14,Ciné+,15,La Petite Reine
+10,Invencible,1990,Y,3,Elizabeth Avellán,9,Mark Canton,1,Rob Cotterill,,,2,Troublemaker Studios,,,,
