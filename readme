@@ -1,0 +1,18 @@
+Para para iniciar corretamente a aplicação, realizar o seguinte procedimento:
+
+1- Executar como "Java Application" a classe "CriarTabelas" contida no seguinte caminho: Java Resources -> src/main/java -> main
+  (Classe responsável por criar todas as tabelas necessárias para o funcionamento das api)
+2- Executar como "Java Application" a classe "ReadFile" contida no seguinte caminho: Java Resources -> src/main/java -> main
+  (Classe responsável por ler e inserir na base de dados os dados contidos no arquivo CSV localizado seguinte caminho: Java Resources -> src/main/resources)  
+3- Executar como "Java Application" a classe "Application" contida no seguinte caminho: Java Resources -> src/main/java -> main -> ReadFile
+  (Classe responsável por subir o servidor)
+  
+URLs de acordo com a numeração dos requisitos
+  1 = localhost:8080/movies
+  2 = localhost:8080/movies/years
+  3 = localhost:8080/studios
+  4 = localhost:8080/producers
+  5 = localhost:8080/movies/6      (Lembrando que o método http do requisito 5 é o DELETE)
+  
+Para realizar os testes, basta executar a classe "MovieDAOTest" como "Junit Test" que está localizada no caminho:  Java Resources -> src/test/java -> dao
+    
